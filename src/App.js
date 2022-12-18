@@ -35,7 +35,7 @@ const App = () => {
       <h1 className="app-title">Monsters Rolodex</h1>
       <SearchBox
         onChangeHandler={onsearchChange}
-        placeholder="search for monster"
+        placeholder="search for monsters"
         className="monster-search-box"
       />
 
